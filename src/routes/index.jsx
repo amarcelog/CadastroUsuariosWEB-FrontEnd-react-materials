@@ -1,7 +1,7 @@
 import React from "react";
 import { Routes, Route }from "react-router-dom";
 import HomePage from '../pages';
-import Usuarios from "../components/Usuarios.jsx";
+import Usuarios from "../pages/Usuarios.jsx";
 import Perguntas from "../components/Perguntas";
 import QuestionariosRespondidos from "../components/QuestionariosRespondidos";
 
