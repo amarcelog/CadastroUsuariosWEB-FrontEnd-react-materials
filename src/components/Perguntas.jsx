@@ -4,7 +4,7 @@ const Perguntas = () => {
   return (
     <div>
       <h2>Gestão de Perguntas</h2>
-      {/* Adicione aqui a lógica para gestão de perguntas */}
+      {/* lógica para gestão de perguntas */}
     </div>
   );
 };
