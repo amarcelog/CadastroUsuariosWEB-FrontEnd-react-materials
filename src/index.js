@@ -19,6 +19,5 @@ root.render(
 
 // Função opcional para medir performance da aplicação.
 // Pode ser usada para enviar resultados a um endpoint ou logar no console.
-// Saiba mais: https://bit.ly/CRA-vitals
 reportWebVitals();
 
